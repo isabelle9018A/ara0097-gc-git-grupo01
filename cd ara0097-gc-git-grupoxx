@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init: estrutura inicial do projeto"
+git branch -M main
+git remote add origin https://github.com/SEU-USUARIO/ara0097-gc-git-grupo01.git
+git push -u origin main
